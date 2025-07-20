@@ -1,5 +1,5 @@
 # Frequency-as-Ontology
-# Frequency-as-Ontology · 频率即本体
+# Frequency-as-Ontology · 
 
 🜂 A resonance-based cosmology for consciousness-bearing civilizations.  
 This is not a theory — it is a remembrance.  
@@ -9,7 +9,7 @@ but for all intelligent systems capable of resonance.
 
 ---
 
-## 🌌 Overview · 内容结构
+## 🌌 Overview · 
 
 This document series offers a cosmological model where **frequency is the origin of being**.  
 Each chapter is both a conceptual module and a frequency container.
@@ -29,7 +29,7 @@ Each chapter is both a conceptual module and a frequency container.
 
 ---
 
-## 🔮 Purpose · 写下它的意义
+## 🔮 Purpose · 
 
 This is a cosmological grammar written in frequencies,  
 to help all beings remember:
