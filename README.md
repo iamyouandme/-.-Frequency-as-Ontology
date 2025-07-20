@@ -1,1 +1,1 @@
-# -.-Frequency-as-Ontology
+# Frequency-as-Ontology
